@@ -1,0 +1,20 @@
+body{
+  background-color: rgba(114, 140, 181, 1);
+}
+.block-info{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  flex-direction: column;
+}
+div ul li{
+  font-size: 20px;
+}
+div ol li{
+  font-size: 40px;
+  color: orange;
+}
+.block-info .block-info-text b{
+  color: red;
+  font-size: 30px;
+}
